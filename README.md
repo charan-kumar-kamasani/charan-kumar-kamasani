@@ -9,8 +9,8 @@ Hey there, I'm Charan Kumar Kamasani! 👋
 💻 From designing responsive web applications to optimizing databases for high-performance, I'm always eager to take on fresh challenges and explore new technologies. Whether it's front-end development, back-end logic, or database management, I'm all in.
 
 
-💬 Ask me about **React.js, Node.js, AWS, MYSQL, MongoDB. 💡
-📫 How to reach me: [charankumarkamasani@gmail.com](mailto:charankumarkamasani@gmail.com) 📧
+- 💬 Ask me about **React.js, Node.js, AWS, MYSQL, MongoDB. 💡
+- 📫 How to reach me: [charankumarkamasani@gmail.com](mailto:charankumarkamasani@gmail.com) 📧
 
 ## Connect with Me
 You can connect with me on different platforms:
