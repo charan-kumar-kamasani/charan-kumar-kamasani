@@ -4,12 +4,12 @@ Hey there, I'm Charan Kumar Kamasani! 👋
 
 ### About Me
 🚀 Full Stack Developer | Passionate about Crafting Exceptional Software Solutions 🌱
-👨‍💻 I'm a dedicated and growth-oriented individual on a journey to improve my skills and reach new heights in the world of software engineering. With a background in Full Stack Development, I began my career as a Full Stack Developer at Pinkmoon Technologies, specializing in React.js and Node.js technologies. I'm passionate about leveraging technology to solve real-world problems and create seamless user experiences.
+👨‍💻 I'm a dedicated and growth-oriented individual on a journey to improve my skills and reach new heights in the world of software engineering. With a background in Full Stack Development, I began my career as a Full Stack Developer at Pinkmoon Technologies, specializing in React.js, React Native and Node.js technologies. I'm passionate about leveraging technology to solve real-world problems and create seamless user experiences.
 
 💻 From designing responsive web applications to optimizing databases for high-performance, I'm always eager to take on fresh challenges and explore new technologies. Whether it's front-end development, back-end logic, or database management, I'm all in.
 
 
-- 💬 Ask me about **React.js, Node.js, AWS, MYSQL, MongoDB. 💡
+- 💬 Ask me about **React.js, React native, Node.js, AWS, MYSQL, MongoDB. 💡
 - 📫 How to reach me: [charankumarkamasani@gmail.com](mailto:charankumarkamasani@gmail.com) 📧
 
 ## Connect with Me
