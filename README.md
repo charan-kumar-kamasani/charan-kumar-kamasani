@@ -26,7 +26,7 @@ Here are some of the languages and tools I work with:
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
 [![React.js](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![React.js](https://img.shields.io/badge/ReactNative-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![React.js](https://img.shields.io/badge/React-Native-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![REST APIs](https://img.shields.io/badge/REST_APIs-green?style=for-the-badge)](https://restfulapi.net/)
